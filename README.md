@@ -1,4 +1,4 @@
-HTML - reviewEvent2.html
+HTML - reviewEvent2.html
 CSS - reviewEvent2.css
 JavaScript - reviewEvent.js
 
