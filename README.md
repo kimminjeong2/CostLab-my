@@ -36,7 +36,7 @@
 | ------ | -------------------------------------------------------------------------------------------------------- |
 | 박성재 | <ul><li>조장</li><li>장바구니 페이지 담당</li><li>깃허브 관리 및 배포</li></ul>                          |
 | 이용석 | <ul><li>제품 상세페이지 담당</li><li>코드 오류 분석</li><li>전체적인 플로우 담당</li></ul>               |
-| 김민정 | <ul><li>이벤트 페이지 담당</li><li>전반적인 이미지 구축</li><li>이벤트 페에지, 디자인 담당</li></ul>     |
+| 김민정 | <ul><li>이벤트 페이지 담당</li><li>전반적인 이미지 구축</li><li>디자인 담당</li></ul>                    |
 | 류다연 | <ul><li>메인페이지 담당</li><li>데이터 정제</li><li>다양한 css 라이브러리를 활용하여 배너 생성</li></ul> |
 
 <br/>
@@ -64,7 +64,8 @@ project/
  |────js/                    # js 모음
 ```
 
-(내가 만든 것)
-HTML - reviewEvent2.html
-CSS - reviewEvent2.css
+<br>
+내가 만든 부분<br>
+HTML - reviewEvent2.html <br>
+CSS - reviewEvent2.css<br>
 JavaScript - reviewEvent.js
